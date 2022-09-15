@@ -1,3 +1,4 @@
+//dotenv es para configurar las variables de entorno
 require('dotenv').config();
 const { Sequelize } = require('sequelize');
 const fs = require('fs');
